@@ -143,9 +143,9 @@ Please make sure your pull requests are clear, focused, and include meaningful c
 - Priority on feature requests or fixes
 
 ### 💬 Feedback
--  For  bug reports, please [open an Issue](https://github.com/WahbaMousa/wahbamousa.github.io/issues).
+-  For  bug reports, please [open an Issue](https://github.com/AIOps-Vision/Mastering-Basics-in-Cpp-for-Beginners/issues).
 
--  For open discussions, suggestions, or to ask a question, please [start a new Discussion](https://github.com/WahbaHamdi/wahbamousa.github.io/discussions).
+-  For open discussions, suggestions, or to ask a question, please [start a new Discussion](https://github.com/AIOps-Vision/Mastering-Basics-in-Cpp-for-Beginners/discussions).
 
 © 2025 Wahba Mousa
 ---
