@@ -1,0 +1,28 @@
+# Ignore development/output files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+404.html
+Gemfile
+Gemfile.lock
+
+# OS/Editor files
+.DS_Store
+*.swp
+*.swo
+Thumbs.db
+
+# IDE-specific
+.vscode/
+.idea/
+
+# Build artifacts (if you have PDF/ebook outputs)
+*.pdf
+*.epub
+*.mobi
+
+# Temporary files
+*.log
+*.tmp
