@@ -122,7 +122,7 @@ Welcome to our comprehensive C++ guide. Navigate through chapters using the link
 - **21.** Blocks and Variable Scope
 
 ## Chapter 5: Loops
-[Go to Full Chapter Content](./)
+[Go to Full Chapter Content](./source/chapters/chapter05-Loops.md)
 - **1.** Loop
 - **2.** while Loop
 - **3.** Infinite Loops
