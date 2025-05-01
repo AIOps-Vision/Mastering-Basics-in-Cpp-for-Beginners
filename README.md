@@ -92,6 +92,12 @@ See all the session photos and feedback here 👉 [Session Highlights](./source/
 ## ✍️ Contribution Guidelines
 You're welcome contributions to improve grammar, format chapters, or add code examples. Read our [CONTRIBUTING.md](./source/CONTRIBUTING.md) for details.
 
+**📌 Contribution History Note:**
+
+	Starting from v1.1.0, this project adopted a structured PR-based Fork Workflow.
+Earlier commits (before v1.1.0) represent initial content uploads and direct fixes made during the bootstrap phase.
+All future contributions follow a professional pull request process with clearly versioned releases.
+
 ## 📂 Resources
 - [📜 Legal Notice](./source/CODE_OF_CONDUCT.md)
 
