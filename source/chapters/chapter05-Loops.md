@@ -1,4 +1,4 @@
-# Chapter 5: Loop
+# Chapter 5: Loops
 A loop is a control structure that causes a statement or group of statements to repeat. C++ provides three looping control structures: `while`, `do-while`, and `for`. The difference between them lies in how they control repetition.
 
 ## `while` Loop
