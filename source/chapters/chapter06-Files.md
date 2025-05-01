@@ -175,15 +175,19 @@ int main() {
 
 ## Read Position
 When file has been opened for input, file stream object internally maintains special value named read position. file’s read position marks next byte location that will be read from file. when input file is opened, its read position is initially set to first byte in file. so, first read operation extracts data starting at first byte. as data is read from file, read position moves forward, toward end of file. last ex: 
+
 ![Read Position](../images/chapter6/position1.png)
 
 when `>>` operator extracts data from file, it read pieces of data that are separated by whitespace characters (spaces, tabs, or newlines). `>>` operator reads data from file’s current read position, up to \n character. data that is read from file is assigned to name object. `\n` character is also read from file, but isn’t included as part of data. so, name object will hold value "Joe" after executing file’s read position will then be as fig.
+
 ![Read Position](../images/chapter6/position2.png)
 
 after executes, it reads next item from file, which is `"Chris"`, and assigns that value to name object. after this statement executes, file’s read position will be advanced to next item, as Figure.
+
 ![Read Position](../images/chapter6/position3.png)
 
 after executes, it reads next item from file, which is "Geri" and assigns that value to name object. after this statement executes, file’s read position will be advanced to end of file, as fig.
+
 ![Read Position](../images/chapter6/position4.png)
 
 ## Reading Numeric Data from Text File
