@@ -145,7 +145,7 @@ Welcome to our comprehensive C++ guide. Navigate through chapters using the link
 - **20.** Case study
 
 ## Chapter 6: Files
-[Go to Full Chapter Content](./)
+[Go to Full Chapter Content](./source/chapters/chapter06-Files.md)
 - **1.** Using Files for Data Storage
 - **2.** Output and Input file
 - **3.** Types of Files
