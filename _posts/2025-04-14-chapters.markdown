@@ -1,7 +1,0 @@
----
-layout: home
-title: " Start reading from the chapters listed in the repository."
-#date:  2025-04-14 09:51:29 +0200
-#categories: Start reading from the chapters listed in the repository.
----
-
