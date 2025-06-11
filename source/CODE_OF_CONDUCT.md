@@ -5,8 +5,7 @@ To safeguard the `main` branch and uphold code quality, we have implemented the 
 - **Require status checks to pass before merging**: Merging is only permitted if all CI checks pass successfully, ensuring that new code does not introduce errors.
 - **Restrict who can push to the `main` branch**: Direct pushes to the `main` branch are restricted to authorized users, enforcing the use of pull requests for all changes.
 
-These policies help maintain a high standard of code quality and promote collaborative development practices. For more details on branch protection rules, refer to the [GitHub documentation](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/about-protected-branches).
-By adhering to these practices, we aim to create a robust and reliable codebase that benefits all users and contributors.
+These policies help maintain a high standard of code quality and promote collaborative development practices. By adhering to these practices, we aim to create a robust and reliable codebase that benefits all users and contributors.
 
 ## ✅ General Rules
 - **Only contribute changes related to open Issues or PBIs (Product Backlog Items).**
@@ -23,6 +22,7 @@ By adhering to these practices, we aim to create a robust and reliable codebase 
 - Full text: [Contributor Covenant](https://www.contributor-covenant.org/). 
 
 © 2025 Wahba Mousa | Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
 ✅ **Allowed:** Sharing and adaptation for non-commercial purposes with attribution  
 ❌ **Restricted:** No commercial use without explicit permission from the author
 

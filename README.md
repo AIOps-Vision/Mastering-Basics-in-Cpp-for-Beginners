@@ -6,8 +6,8 @@
 [![Beta](https://img.shields.io/badge/Status-Beta-Purple)](https://github.com/AIOps-Vision/Mastering-Basics-in-Cpp-for-Beginners)
 [![License](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![GitHub Tag](https://img.shields.io/github/v/tag/AIOps-Vision/Mastering-Basics-in-Cpp-for-Beginners)](https://github.com/AIOps-Vision/Mastering-Basics-in-Cpp-for-Beginners/tags)
-[![GitHub Release](https://img.shields.io/github/v/release/AIOps-Vision/Mastering-Basics-in-Cpp-for-Beginners?sort=semver)](https://github.com/AIOps-Vision/Mastering-Basics-in-Cpp-for-Beginners/releases)
-[![pages build and deployment #1](https://github.com/AIOps-Vision/Mastering-Basics-in-Cpp-for-Beginners/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/AIOps-Vision/Mastering-Basics-in-Cpp-for-Beginners/actions/workflows/pages/pages-build-deployment)
+<!-- [![GitHub Release](https://img.shields.io/github/v/release/AIOps-Vision/Mastering-Basics-in-Cpp-for-Beginners?sort=semver)](https://github.com/AIOps-Vision/Mastering-Basics-in-Cpp-for-Beginners/releases)
+[![pages build and deployment #1](https://github.com/AIOps-Vision/Mastering-Basics-in-Cpp-for-Beginners/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/AIOps-Vision/Mastering-Basics-in-Cpp-for-Beginners/actions/workflows/pages/pages-build-deployment) -->
 
 ## 📸 A Success Story.
 **Youssef started learning C++ with me from scratch. Despite being in middle school, he showed incredible enthusiasm, stayed for full sessions, and kept pushing forward. Thanks to his effort and early mentorship, he won the prestigious Al-Quds coding competition, earned a scholarship from the Egyptian Ministry of Communications, and qualified for the National Olympiad in Informatics. I’m truly proud to have been part of his journey. He reminds us that early encouragement can unlock greatness.**
@@ -19,7 +19,8 @@
 ## 📅 Table of Contents
 - 👉 [Read the Book Online](https://wahba.aiopsvision.com/)
 - 📋 [Full Table of Contents](./index.md)
-- 📖 [Book Overview](#-book-overview)
+- 📚 [References](#-references)
+<!-- - 📖 [Book Overview](#-book-overview)
 - 🎯 [Key Features](#-key-features)
 - 🎓 [Who Should Read This?](#-who-should-read-this)
 - ⏳ [What You Will Save](#-what-you-will-save)
@@ -32,9 +33,8 @@
 - ✍️ [Contribution Guidelines](#️-contribution-guidelines)
 - 📂 [Resources](#-resources)
 - 📸 [Highlights from Free Live Book Sessions](#-highlights-from-free-live-book-sessions)
-- 📚 [References](#-references)
 - 👨‍💻 [About the Author](#-about-the-author)
-- 📩 [Stay Connected](#-stay-connected)
+- 📩 [Stay Connected](#-stay-connected) -->
 
 ## 📖 Book Overview
 This book is the result of intense effort, dedication, and daily work. It teaches C++ fundamentals through step-by-step guidance, real-world examples, and beginner-friendly language. It’s designed for learners with little or no programming experience.
@@ -98,7 +98,7 @@ You're welcome contributions to improve grammar, format chapters, or add code ex
 Earlier commits (before v1.1.0) represent initial content uploads and direct fixes made during the bootstrap phase.
 All future contributions follow a professional pull request process with clearly versioned releases.
 
-## 📂 Resources
+## 📂 Policies
 - [📜 Legal Notice](./source/CODE_OF_CONDUCT.md)
 
 ## 🔒 Security Best Practices
